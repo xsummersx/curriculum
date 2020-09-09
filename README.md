@@ -158,4 +158,4 @@ Vue.prototype.$layer = layer(Vue);
 
 
 ---
-文件下载地址：
+文件下载地址：git@github.com:xsummersx/curriculum.git
