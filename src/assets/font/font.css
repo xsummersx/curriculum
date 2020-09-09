@@ -1,0 +1,19 @@
+/* 汉仪菱心体简 */
+@font-face {
+  font-family: 'hylxtj';
+  src: url('汉仪菱心体简.woff2') format('woff2'),
+    url('汉仪菱心体简.woff') format('woff'),
+    url('汉仪菱心体简.ttf') format('truetype'),
+    url('汉仪菱心体简.eot') format('embedded-opentype'),
+    url('汉仪菱心体简.svg') format('svg');
+}
+/* 苏新诗卵石体 */
+@font-face {
+  font-family: 'sxslst';
+  src: url('苏新诗卵石体.woff2') format('woff2'),
+    url('苏新诗卵石体.woff') format('woff'),
+    url('苏新诗卵石体.ttf') format('truetype'),
+    url('苏新诗卵石体.eot') format('embedded-opentype'),
+    url('苏新诗卵石体.svg') format('svg');
+}
+/* 孙过庭书谱体 */
